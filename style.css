@@ -1,0 +1,408 @@
+.box{
+position: relative;
+object-fit: cover;
+weight:100px;
+height: 100px;
+}
+.box img{
+position: absolute;
+top:125px;
+left: 150px;
+transform: translate(-50%,-50%)
+;
+width: 214px;
+height: 163px;
+object-fit: cover;
+}
+.contakti{
+font-family: "Inter", sans-serif;
+position: absolute;
+left: 52px;
+margin-top: 125px;
+background-color: #89FF95;
+font-size: 16px;
+width: 214px;
+height: 54px;
+display: flex;
+justify-content: center;
+}
+.c1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:68px;
+margin-top: 18px;;
+font-size: 12px;
+width: 204px;
+height: 35px;
+display: flex;
+justify-content: center;
+}
+.kart1{
+  position: absolute;
+  width: 4px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  margin-right: 140px;
+  margin-top: 8px
+
+}
+
+
+.yaz{
+font-family: "Inter", sans-serif;
+position: absolute;
+left: 52px;
+margin-top: 200px;
+background-color: #89FF95;
+font-size: 16px;
+width: 214px;
+height: 54px;
+display: flex;
+justify-content: center;
+}
+.y1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:68px;
+margin-top: 10x;;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+justify-content: center;
+}
+.y2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:18px;
+font-size: 14px;
+width: 204px;
+height: 35px;
+display: flex;
+justify-content: center;
+}
+.kart2{
+  position: absolute;
+  width: 4px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  margin-right: 140px;
+  margin-top: 5px
+}
+
+.inter{
+font-family: "Inter", sans-serif;
+position: absolute;
+left: 52px;
+margin-top: 270px;
+background-color: #89FF95;
+font-size: 16px;
+width: 210px;
+height: 107px;
+display: flex;
+justify-content: center;
+}
+.i1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:68px;
+margin-top: 10x;;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-right:60px;
+justify-content: center;
+}
+.i2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:23px;
+font-size: 14px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-left:60px; 
+justify-content: center;
+}
+.kart3{
+  position: absolute;
+  width: 8px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  margin-right: 140px;
+  margin-top: 5px
+}
+
+
+.prof{
+font-family: "Inter", sans-serif;
+position: absolute;
+left: 52px;
+margin-top: 390px;
+background-color: #89FF95;
+font-size: 16px;
+width: 221px;
+height: 117px;
+display: flex;
+justify-content: center;
+}
+.p1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:118px;
+margin-top: 10px;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-right:60px;
+justify-content: center;
+}
+.p2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:30px;
+font-size: 14px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-left:50px; 
+justify-content: center;
+}
+.kart4{
+  position: absolute;
+  width: 8px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  margin-right: 140px;
+  margin-top: 5px
+}
+
+.int{
+font-family: "Inter", sans-serif;
+position: absolute;
+left: 52px;
+margin-top: 520px;
+background-color: #89FF95;
+font-size: 16px;
+width: 228px;
+height: 109px;
+display: flex;
+justify-content: center;
+}
+.in1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:48px;
+margin-top: 10px;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-right:60px;
+justify-content: center;
+}
+.in2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:50px;
+font-size: 14px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-left:-140px; 
+justify-content: center;
+}
+.kart5{
+  position: absolute;
+  width: 8px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin-right: -140px;
+  margin-top: 50px
+}
+
+.o1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:48px;
+margin-top: 40px;
+font-size: 20px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-right:60px;
+justify-content: center;
+}
+.o2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:120px;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-left:-10px; 
+justify-content: center;
+}
+.kart6{
+  position: absolute;
+  width: 8px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin-right: 190px;
+  margin-top: 20px
+}
+.oseb{
+  font-family: "Inter", sans-serif;
+  position: absolute;
+  left: 322px;
+  margin-top: -60px;
+  background-color: #89FF95;
+  font-size: 16px;
+  width: 295px;
+  height: 313px;
+  display: flex;
+  justify-content: center;
+}
+.ob1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:48px;
+margin-top: 10px;
+font-size: 20px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-right:150px;
+justify-content: center;
+}
+.ob2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:40px;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-left:-100px; 
+justify-content: center;
+}
+.kart7{
+  position: absolute;
+  width: 8px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin-right:-140px;
+  margin-top: 100px
+}
+.obr{
+  font-family: "Inter", sans-serif;
+  position: absolute;
+  left: 322px;
+  margin-top: 260px;
+  background-color: #89FF95;
+  font-size: 16px;
+  width: 295px;
+  height: 221px;
+  display: flex;
+  justify-content: center;
+}
+
+.n1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:110px;
+margin-top: 30px;
+font-size: 20px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-right:150px;
+justify-content: center;
+}
+.n2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:60px;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-left:80px; 
+justify-content: center;
+}
+.kart8{
+  position: absolute;
+  width: 8px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin-right:190px;
+  margin-top: 50px
+}
+.nav{
+  font-family: "Inter", sans-serif;
+  position: absolute;
+  left: 322px;
+  margin-top: 490px;
+  background-color: #89FF95;
+  font-size: 16px;
+  width: 295px;
+  height: 143px;
+  display: flex;
+  justify-content: center;
+}
+
+.r1{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-left:90px;
+margin-top: 10px;
+font-size: 20px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-right:150px;
+justify-content: center;
+}
+.r2{
+font-family: "Inter", sans-serif;
+position: absolute;
+margin-top:60px;
+font-size: 16px;
+width: 204px;
+height: 35px;
+display: flex;
+margin-left:-150px; 
+justify-content: center;
+}
+.kart9{
+  position: absolute;
+  width: 8px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin-right:-190px;
+  margin-top: 30px
+}
+.pr{
+  font-family: "Inter", sans-serif;
+  position: absolute;
+  left: 322px;
+  margin-top: 640px;
+  background-color: #89FF95;
+  font-size: 16px;
+  width: 295px;
+  height: 106px;
+  display: flex;
+  justify-content: center;
+}
